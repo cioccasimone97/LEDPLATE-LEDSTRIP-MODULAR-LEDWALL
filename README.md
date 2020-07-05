@@ -1,5 +1,7 @@
 # LEDPLATE-LEDSTRIP-MODULAR-LEDWALL
 
+Developed by:
+
 @cioccasimone97 - Design and Implementation of a client-server architecture in order to play multimedia content
 
 @GalliaAndre - Controllo remoto di un microprocessore: da linea di comando a Progressive Web App
